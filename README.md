@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<<<<<<< HEAD
+=======
+=======
+# mercado-em-foco
+Mercado em foco é um blog de notícias quentes relacionado ao mercado financeiro global e individual, trazendo formas de como investir o seu dinheiro no dia a dia e como anda o mercado financeiro no brasil e no mundo.
+>>>>>>> 0e8f9de44ecb352e9c56789dc4f5cf159aeab1c7
+>>>>>>> 80c03259dff94c430cfa1210e19ebdd99e2fea11
