@@ -22,7 +22,7 @@ const posts = [
     slug: "post-2",
     category: "Política",
     title: "Moraes vota para condenar mulher que pichou “Perdeu, mané” no STF a 14 anos de prisão",
-    description: "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiu.",
+    description: "lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiu",
     author: "Batman",
     date: "21/03/2025",
     image: "https://www.infomoney.com.br/wp-content/uploads/2025/03/ja08717_0.webp?w=1200&quality=70&strip=all",
@@ -34,7 +34,7 @@ export function CardBlog() {
   return (
     <>
       <div className="w-full flex flex-col items-center justify-center p-4 sm:px-10 md:px-20 lg:px-60 lg:py-8">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4 lg:w-3/4">
           {posts.map((post) => (
             <Link
               href={`/blog/${post.slug}`}

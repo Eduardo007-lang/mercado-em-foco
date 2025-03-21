@@ -12,7 +12,6 @@ export function Blog() {
       <Intro />
       <Search />
       <CardBlog />
-      <Widgets />
     </>
   );
 }
